@@ -141,7 +141,7 @@ We evaluated multiple architectures:
 
 ## 🎯 Key Contributions
 
-* ✅ Novel **Enhanced Latent Diffusion Model (E-LDM)**
+* ✅ Novel **Enhanced Latent Diffusion Model**
 * ✅ Comprehensive comparison across **9 architectures**
 * ✅ Integration of **Bayesian Optimization**
 * ✅ Robust evaluation using **5-Fold Cross Validation**
@@ -201,7 +201,7 @@ pip install tensorflow keras opencv-python numpy scikit-learn keras-tuner vit-ke
 If you use this work, please cite:
 
 for Dataset
-@article{bamboo2026,
+@misc{bambooleafds2026,
   title={Enhanced Latent Diffusion Model for Bamboo Leaf Disease Classification},
   author={Pankajkumar Thakre, Jagdish Chakole},
   year={2026}
@@ -222,7 +222,7 @@ for Dataset
 
 For queries or collaboration:
 
-* 📧 Your Email
-* 🌐 Your Institution
+* 📧dtea23cse016@iiitn.ac.in
+* 🌐 Indian Institute of Information Technology, Nagpur
 
 ---
